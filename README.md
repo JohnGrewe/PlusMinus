@@ -1,1 +1,1 @@
-The Solution.java file contains code that correctly and effciently completes the PlusMinus challenge on HackerRank
+The Solution.java file contains code that correctly and efficiently completes the PlusMinus challenge on HackerRank
